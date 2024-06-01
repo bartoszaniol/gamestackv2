@@ -1,4 +1,3 @@
-import Image from "next/image";
 import db from "../db/db";
 import { user } from "../db/schema";
 
